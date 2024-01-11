@@ -13,7 +13,11 @@ like to create things that will give my team the extra push to achieve our goals
 
 ### Web developer
 
-#### Digiti | Oct 2017 - Present
+#### Dropsolid | Jul 2022 - Present
+
+
+
+#### Digiti | Oct 2017 - Jul 2022
 
 Trying to create a bigger impact on the team and the customer, I decided to join a much smaller company. They gave me
 the opportunity to enrich my skills by learning and using React Native, as well as more responsibilities as it comes to
